@@ -12,12 +12,12 @@ This project focuses on building an interactive Power BI dashboard to analyze sa
 - Sales dataset (Excel file)
 
 ## Key Tasks Performed
-- Built an interactive sales performance dashboard in Power BI
--Created DAX measures for Total Orders and Average Order Value
-- Created calculated columns to support analysis
-- Designed KPI cards and interactive visualizations
-- Analyzed sales performance by Product, Referral Source, Payment Method, Order Status, and Month
-- Generated business insights and recommendations from the data
+- Built an interactive sales performance dashboard in Power BI.
+-Created DAX measures for Total Orders and Average Order Value.
+- Created calculated columns to support analysis.
+- Designed KPI cards and interactive visualizations.
+- Analyzed sales performance by Product, Referral Source, Payment Method, Order Status, and Month.
+- Generated business insights and recommendations from the data.
 
 ## Key Metrics
 
