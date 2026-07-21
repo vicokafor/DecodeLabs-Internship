@@ -44,4 +44,4 @@ This project focuses on building an interactive Power BI dashboard to analyze sa
 
 ## Dashboard Preview
 
-"Sales Performance Dashboard" (sales-performance-dashboard.png)
+![Sales Performance Dashboard](sales-performance-dashboard.png)
